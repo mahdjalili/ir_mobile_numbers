@@ -21,8 +21,8 @@ This script generates and concatenates Iranian mobile numbers with various prefi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/iranian-mobile-numbers-generator.git
-   cd iranian-mobile-numbers-generator
+   git clone https://github.com/mahdjalili/iranian-mobile-numbers.git
+   cd iranian-mobile-numbers
    ```
 
 2. **Run the Script**
